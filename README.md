@@ -1,4 +1,4 @@
-# Exploring Azure
+# Exploring Azure Part 1
 
  ### [YouTube Demonstration](https://youtu.be/AYW6kEUMDEI)
 
@@ -30,11 +30,10 @@ Preface
 
 
 ## Environments Used 
-- Windows 10
+- Windows 11
 
 
-## Program walk-through
-### Part 1
+## Program walk-through  
 - Create an Account
 - While on Azure homepage, you will see Azure Services at the top of the window. There you will find "Resource Groups". If you don't see it, you can type in "Resource Groups" into the search bar.
   <img src="https://github.com/user-attachments/assets/faa7da2c-02d3-463e-bc77-cb7d4b41a0df" height="70%" width="70%" alt="home"/>
