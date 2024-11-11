@@ -13,15 +13,15 @@ Preface
   
 - Log into Azure Portal https://portal.azure.com
   
-- Whenever you create an Azure account, you are automatically  given a <b>Tenant</b> which represents your organization. It servers as like a Global Administrator account for your organization.
+- Whenever you create an Azure account, you are automatically  given a <b>Tenant</b> which represents your organization. It servers as like a Global Administrator account for your organization.  
  
-- Within your Tenant, we will create a <b>Subscription</b>  which will allow us to segragrate costs and resources, such as departments within an organization. Each payment will indicate a seperate subcription. For this project we will only utilizing 1 subscription
+- Within your Tenant, we will create a <b>Subscription</b>  which will allow us to segragrate costs and resources, such as departments within an organization. Each payment will indicate a seperate subcription. For this project we will only utilizing 1 subscription.  
   <img src="https://github.com/user-attachments/assets/62f7eb42-8e4d-4ee9-b087-f6160146584a" height="70%" width="70%" alt="Tenant.Subscription"/>
 
-- Within your Subscriptions are <b>Resource Groups</b> that act as logical containers that help organize, manage, and control resources as a collective unit, much like folders organize files. For example things such as VMs, databases, storage accounts, etc.)
+- Within your Subscriptions are <b>Resource Groups</b> that act as logical containers that help organize, manage, and control resources as a collective unit, much like folders organize files. For example things such as VMs, databases, storage accounts, etc.)  
   <img src="https://github.com/user-attachments/assets/b24167a1-a3a1-43db-921e-115e7f18673b" height="70%" width="70%" alt="ResourceGroups"/>
  
-- Your Resource Groups are where your resources go, in this case we will be using the <b>Azure Storage Account</b> service. This is just a storage that can hold various types of data.
+- Your Resource Groups are where your resources go, in this case we will be using the <b>Azure Storage Account</b> service. This is just a storage that can hold various types of data.  
 <img src="https://github.com/user-attachments/assets/970f93f2-69e5-4c6f-b48b-c777dc016f6a" height="70%" width="70%" alt="StorageGroup"/>
 
  
