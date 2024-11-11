@@ -74,9 +74,6 @@ Preface
  <img src="https://github.com/user-attachments/assets/799c9a8d-fd0d-4073-9618-5f3c1e0a544a" height="70%" width="70%" alt="delete"/>
  
 
-
-### Part 2
-
 <!--
 <p align="center">
 Launch the utility: <br/>
