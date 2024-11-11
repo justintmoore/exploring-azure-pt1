@@ -52,7 +52,7 @@ Preface
 - You must declare which resource group you want to have this storage account, name your storage account (must be globally unique), change "Redundancy" to locally redudant storage (LRS). Now click "Create". 
   <img src="https://github.com/user-attachments/assets/7d1e045c-a4ab-40b2-b5fe-e9a1c6876b90" height="70%" width="70%" alt="rg1"/>
 
-- Check to ensure that you have your resource group and storage account by navigating to your resource group, clicking it, and seeing whether or not your storage account is in there.
+- Check to ensure that you have your resource group and storage account by navigating to your resource group, clicking it, and seeing whether or not your storage account is in there.  
   <img src="https://github.com/user-attachments/assets/383537df-eb7b-49c2-a676-cd5e2610d659" height="70%" width="70%" alt="checkstorage"/>
 
 - Now for part one we will create a text file, save it to our desktop, then upload it into the storage account.
