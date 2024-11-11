@@ -1,6 +1,6 @@
 # Exploring Azure
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://youtu.be/AYW6kEUMDEI)
 
 ## Description
 This project provides a beginner-friendly walkthrough for setting up and managing resources within Microsoft Azure. It guides users through creating an Azure account, navigating the Azure portal, and managing resources with a focus on storage and cost management. Before beginning we will run through some basic concepts. 
