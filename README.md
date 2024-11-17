@@ -11,18 +11,18 @@ The cloud is just a collection of remote servers located in a data center, sprea
 Preface  
 - First create an account with Azure. If this is your first time, you can create a free account and receive $200 in free credits. https://azure.microsoft.com/en-us/free/
   
-- Log into Azure Portal https://portal.azure.com
+- Log into Azure Portal https://portal.azure.com  
   
 - Whenever you create an Azure account, you are automatically  given a <b>Tenant</b> which represents your organization. It servers as like a Global Administrator account for your organization.  
  
 - Within your Tenant, we will create a <b>Subscription</b>  which will allow us to segragrate costs and resources, such as departments within an organization. Each payment will indicate a seperate subcription. For this project we will only utilizing 1 subscription.  
-  <img src="https://github.com/user-attachments/assets/62f7eb42-8e4d-4ee9-b087-f6160146584a" height="70%" width="70%" alt="Tenant.Subscription"/>
+  <img src="https://github.com/user-attachments/assets/62f7eb42-8e4d-4ee9-b087-f6160146584a" height="70%" width="70%" alt="Tenant.Subscription"/>  
 
 - Within your Subscriptions are <b>Resource Groups</b> that act as logical containers that help organize, manage, and control resources as a collective unit, much like folders organize files. For example things such as VMs, databases, storage accounts, etc.)  
-  <img src="https://github.com/user-attachments/assets/b24167a1-a3a1-43db-921e-115e7f18673b" height="70%" width="70%" alt="ResourceGroups"/>
+  <img src="https://github.com/user-attachments/assets/b24167a1-a3a1-43db-921e-115e7f18673b" height="70%" width="70%" alt="ResourceGroups"/>  
  
 - Your Resource Groups are where your resources go, in this case we will be using the <b>Azure Storage Account</b> service. This is just a storage that can hold various types of data.  
-<img src="https://github.com/user-attachments/assets/970f93f2-69e5-4c6f-b48b-c777dc016f6a" height="70%" width="70%" alt="StorageGroup"/>
+<img src="https://github.com/user-attachments/assets/970f93f2-69e5-4c6f-b48b-c777dc016f6a" height="70%" width="70%" alt="StorageGroup"/>  
 
  
 ## Tools, Utilities, Services Used
@@ -36,14 +36,14 @@ Preface
 ## Program walk-through  
 - Create an Account
 - While on Azure homepage, you will see Azure Services at the top of the window. There you will find "Resource Groups". If you don't see it, you can type in "Resource Groups" into the search bar.
-  <img src="https://github.com/user-attachments/assets/faa7da2c-02d3-463e-bc77-cb7d4b41a0df" height="70%" width="70%" alt="home"/>
+  <img src="https://github.com/user-attachments/assets/faa7da2c-02d3-463e-bc77-cb7d4b41a0df" height="70%" width="70%" alt="home"/>  
   
 - Now click "Create". Choose your Resource Group name, and choose a "region", which is where the metadata or resource details of your resource group is located.  
-  <img src="https://github.com/user-attachments/assets/bffb8cbc-1b10-4e49-a7ac-ee817365efc7" height="70%" width="70%" alt="rg1"/>  
+  <img src="https://github.com/user-attachments/assets/bffb8cbc-1b10-4e49-a7ac-ee817365efc7" height="70%" width="70%" alt="rg1"/>   
   
-- You can add tags to logically organize your resource groups. They consist of a key-value pair, but for now move on. Review the details of your resource group, and click "Review and Create".
+- You can add tags to logically organize your resource groups. They consist of a key-value pair, but for now move on. Review the details of your resource group, and click "Review and Create".  
 
-- After resource group is deployed, we will create a Storage Account within the resource group.
+- After resource group is deployed, we will create a Storage Account within the resource group.  
 
 - In the search bar above, type "storage account", after select "Create".
   <img src="https://github.com/user-attachments/assets/e74da62c-bb91-4295-9189-4b6cf378cf87" height="70%" width="70%" alt="rg1"/>
