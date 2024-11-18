@@ -1,5 +1,5 @@
 <h1>Exploring Azure</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br /
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.
 
  ### [YouTube Demonstration](https://youtu.be/AYW6kEUMDEI)
 
